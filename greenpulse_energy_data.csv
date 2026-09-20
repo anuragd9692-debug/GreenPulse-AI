@@ -1,0 +1,8 @@
+Appliance,Hours_Per_Day,Power_Watts,Daily_Energy_kWh,Monthly_Energy_kWh,Monthly_Cost_INR,Monthly_CO2_kg,Cluster,Consumption_Level,AI_Recommendation
+Air Conditioner,6.0,1500,9.0,270.0,2025.0,189.0,2,High,"Reduce unnecessary AC usage, maintain an efficient temperature setting and keep doors/windows closed."
+Refrigerator,24.0,200,4.8,144.0,1080.0,100.8,1,Medium,Avoid unnecessary door opening and check the door seal regularly.
+Washing Machine,1.5,500,0.75,22.5,168.75,15.749999999999998,0,Low,Use full loads and avoid unnecessary washing cycles.
+Television,4.0,120,0.48,14.399999999999999,107.99999999999999,10.079999999999998,0,Low,Switch off the TV completely when not in use.
+Fans,8.0,75,0.6,18.0,135.0,12.6,0,Low,Switch off fans in unoccupied rooms.
+Lights,5.0,60,0.3,9.0,67.5,6.3,0,Low,Switch off unused lights and use efficient LED lighting.
+Computer,6.0,200,1.2,36.0,270.0,25.2,0,Low,Enable sleep or power-saving mode when the computer is not being used.
